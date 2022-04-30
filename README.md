@@ -10,7 +10,7 @@ It gives you the ability to look up for you next journey and to ask for interest
 ## Specificities
 
 To import this project from eclipse, use the import existing maven projects
-
+Then, run the project as *Maven install*, and finally with *Spring Boot App*
 This application will create at launch :
 - The models in JPA with an implementation of a class managing the ids (Entite)
 - The models and its associated repository
