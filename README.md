@@ -1,3 +1,5 @@
+To import this project from eclipse, use the import existing maven projects
+
 This application will create at launch :
 - The models in JPA with an implementation of a class managing the ids (Entite)
 - The models and its associated repository
